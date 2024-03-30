@@ -53,6 +53,6 @@ huggingface_hub
 
 ## <span style="color:#ff45f9">Unleash the Full Potential of BitNet</span>
 
-Our BitNet architecture is engineered for excellence, drawing inspiration from the meticulous design laid out in the training details manuscript, [<span style="color:#52d1ff;text-decoration: underline;">The-Era-of-1-bit-LLMs__Training_Tips_Code_FAQ.pdf](https://github.com/microsoft/unilm/blob/master/bitnet/The-Era-of-1-bit-LLMs__Training_Tips_Code_FAQ.pdf)</span>. By seamlessly integrating BitLinear and leveraging HuggingFace's LlamaForCasualLM, we empower you to unlock the true power of BitNet.
+Our BitNet architecture is engineered for excellence, drawing inspiration from the meticulous design laid out in the training details manuscript, [<span style="color:#52d1ff;text-decoration: underline;">The-Era-of-1-bit-LLMs__Training_Tips_Code_FAQ.pdf](https://github.com/microsoft/unilm/blob/master/bitnet/The-Era-of-1-bit-LLMs__Training_Tips_Code_FAQ.pdf)</span>. By seamlessly integrating BitLinear and leveraging HuggingFace's <span style="color:#ffff00; background-color:#112211;">`LlamaForCasualLM`</span>, we empower you to unlock the true power of BitNet.
 
 Explore, train, and revolutionize with LLaMA-BitNet!
