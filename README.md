@@ -28,8 +28,9 @@ Our repository boasts a clear and intuitive file structure designed for effortle
 LLaMA-BitNet                    (root folder)
 |
 │   ├── inference.py            (Run inference with the trained BitNet model)
-│   ├── README.md               (You're here!)
-│   ├── requirements.txt         (List of required modules for installation)
+│   ├── LICENSE                 (MIT License)
+│   ├── README.md
+│   ├── requirements.txt        (List of required modules for installation)
 │   ├── train.py                (Run the training process)
 │   └── utils.py                (Contains utility functions)
 ```
