@@ -4,6 +4,10 @@
 
 <br>
 
+> Note: You need to have access to LLaMA model if you wish to run code without modifications. To get access to LLaMA family of models, you need to go to [https://llama.meta.com/llama-downloads/](https://llama.meta.com/llama-downloads/) and provide credentials which you use in Hugging Face. After that, you will receive mail to either download weights directly to your device or to use LLaMA through API.
+
+<br>
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-transformers%20%7C%20datasets%20%7C%20Models-blueviolet?style=for-the-badge&logo=huggingface)](https://huggingface.co/)
