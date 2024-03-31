@@ -10,10 +10,12 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-transformers%20%7C%20datasets%20%7C%20Models-blueviolet?style=for-the-badge&logo=huggingface)](https://huggingface.co/)
-[![Repository Stars](https://img.shields.io/github/stars/dhakalnirajan/LLaMA-BitNet?style=for-the-badge)](https://github.com/dhakalnirajan/LLaMA-BitNet/stargazers)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-transformers%20%7C%20datasets%20%7C%20Models-blueviolet?style=for-the-badge&logo=huggingface&labelColor=ee4c2c&color=ff9d00)](https://huggingface.co/)
+![GitHub License](https://img.shields.io/github/license/dhakalnirajan/LLaMA-BitNet?style=for-the-badge&logo=github&logoColor=white&label=License&labelColor=purple&color=orange)
+[![Repository Stars](https://img.shields.io/github/stars/dhakalnirajan/LLaMA-BitNet)](https://github.com/dhakalnirajan/LLaMA-BitNet/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/dhakalnirajan/LLaMA-BitNet)
 [![Dataset on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets)
-[![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm.svg)](https://huggingface.co/nirajandhakal)
+[![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm.svg)](https://huggingface.co/nirajandhakal)[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fnirajandhakal_7&style=for-the-badge&logo=X&logoColor=blue&label=Follow%20%40nirajandhakal_7%20&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2Fnirajandhakal_7)](https://twitter.com/nirajandhakal_7)
 <img src="https://chunte-hfba.static.hf.space/images/Outlined%20Huggies/Greeting%20Huggy%20left.png" alt="HuggingFace Logo" height=80 width=80>
 
 ## <span style="color:#ff52fc">Easy Installation</span>
